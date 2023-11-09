@@ -1,5 +1,5 @@
 ## Привет всем 👋
-### Немного обо мне:
+### Немного о себе:
 - ✍Хочу писать чистый и читабельный код
 - 😎Хочу работать с настоящими крутыми проектами
 - 🤓Стремлюсь изучать новые фреймворки
@@ -30,3 +30,5 @@
 		<img align="left" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_tile_logo_icon_169640.png" alt="telegram" height="40" width="40" />
 	</a>
 </p>
+### 📖Моя статистика:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=veronikadogareva&theme=dark&background=000000)](https://git.io/streak-stats)
