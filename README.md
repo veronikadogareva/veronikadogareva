@@ -29,7 +29,6 @@
 	<a href="https://t.me/veronikacumberbatch" target="_blank">
 		<img align="left" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_tile_logo_icon_169640.png" alt="telegram" height="40" width="40" />
 	</a>
-</p>
 
 ### 📖Моя статистика:
 <p align="center">
