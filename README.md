@@ -24,9 +24,9 @@
 
 <p align="center">
 	<a href="https://www.instagram.com/veronikacumberbatch/" target="_blank"">
-		<img align="start" src="https://w7.pngwing.com/pngs/822/208/png-transparent-instagram-application-icon-social-media-logo-symbol-insta-text-monochrome-social-media-marketing-thumbnail.png" alt="instagram" height="40" width="40" />
+		<img align="left" src="https://w7.pngwing.com/pngs/822/208/png-transparent-instagram-application-icon-social-media-logo-symbol-insta-text-monochrome-social-media-marketing-thumbnail.png" alt="instagram" height="40" width="40" />
 	</a>
 	<a href="https://t.me/veronikacumberbatch" target="_blank">
-		<img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_tile_logo_icon_169640.png" alt="telegram" height="40" width="40" />
+		<img align="left" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_tile_logo_icon_169640.png" alt="telegram" height="40" width="40" />
 	</a>
 </p>
