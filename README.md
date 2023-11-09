@@ -30,7 +30,7 @@
 		<img align="center" src="https://telegrambot.biz/images/article_images/70.png" alt="telegram" height="40" width="40" />
 	</a>
 </p>
-
+<p align="center">
 <h3 align="left">📖Моя статистика:</h3>
 <a href="https://github.com/veronikadogareva" align="center"><img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veronikadogareva&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <a><img width="60%" src="https://metrics.lecoq.io/veronikadogareva?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Europe%2FTomsk"/>  
