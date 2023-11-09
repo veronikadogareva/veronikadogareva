@@ -1,4 +1,4 @@
-# Привет всем 👋
+## Привет всем 👋
 ### Немного обо мне:
 - ✍Хочу писать чистый и читабельный код
 - 😎Хочу работать с настоящими крутыми проектами
@@ -20,3 +20,13 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+<h3 align="left">🤙Связаться со мной:</h3>
+
+<p align="center">
+	<a href="https://www.instagram.com/veronikacumberbatch/" target="_blank"">
+		<img align="center" src="./images/contacts/instagram.svg" alt="instagram" height="40" width="40" />
+	</a>
+	<a href="https://t.me/veronikacumberbatch" target="_blank">
+		<img align="center" src="./images/contacts/telegram.svg" alt="telegram" height="40" width="40" />
+	</a>
+</p>
